@@ -1,0 +1,8 @@
+# Web Scraping e Automação
+selenium
+python-dotenv
+
+# Google GenAI e LangChain
+langchain
+langchain-google-genai
+langchain-core
